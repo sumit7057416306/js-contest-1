@@ -19,7 +19,7 @@ function addData(){
 }
 
 function removeAdmin(){
-    arr.remove[1]
+    arr.remove[2]
     console.log(arr)
 }
 
